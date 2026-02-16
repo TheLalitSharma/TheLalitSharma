@@ -133,15 +133,6 @@
 <td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/TheLalitSharma/automation_framework_e2e"><b>automation_framework_e2e</b></a></td>
-<td>Enterprise-grade Selenium automation framework with TestNG, modular design, and reporting for scalable test suites.</td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/TheLalitSharma/orangehrm-automation"><b>orangehrm-automation</b></a></td>
-<td>Selenium WebDriver + TestNG automation focused on OrangeHRM workflows and end-to-end functional tests.</td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
 </tbody>
 </table>
 
