@@ -30,7 +30,7 @@
 
 💼 **8+ years in Test Automation**
 
-🔭 Currently working on **[CompleteUI_Selenium_Framework](https://github.com/TheLalitSharma/CompleteUI_Selenium_Framework)**
+🔭 Currently working on **[APIAutomationBDDFramework](https://github.com/TheLalitSharma/APIAutomationBDDFramework)**
 
 🌱 Currently learning **GenAI in Testing, Cloud Automation**
 
@@ -131,6 +131,11 @@
 <td><a href="https://github.com/TheLalitSharma/pw-ts-web-api"><b>pw-ts-web-api</b></a></td>
 <td>Playwright + TypeScript web API framework with POM, wrappers, and data fixtures (JSON/YAML/Excel) for end-to-end testing.</td>
 <td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/TheLalitSharma/APIAutomationBDDFramework"><b>APIAutomationBDDFramework</b></a></td>
+<td>A scalable, production-ready API test automation framework built with Java, REST Assured, and Cucumber BDD.</td>
+<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 </tbody>
